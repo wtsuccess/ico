@@ -1,0 +1,18 @@
+{
+  "short_name": "Presale ICO Launch",
+  "name": "Presale ICO Launch",
+  "description": "",
+  "homepage_url": "",
+  "start_url": ".",
+  "display": "",
+  "theme_color": "#1FC7D4",
+  "background_color": "#ffffff",
+  "orientation": "",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    }
+  ]
+}
